@@ -2,6 +2,8 @@
 
 Code Solver is a cutting-edge Flutter application designed to streamline problem-solving and code generation. This README provides an overview of the project, its features, installation instructions, and more.
 
+[https://youtube.com/shorts/kC-tE53m5Ls?feature=share](https://youtube.com/shorts/kC-tE53m5Ls?feature=share)
+
 ## Features
 
 - **Advanced State Management**: Utilizes Flutter Bloc for robust state management, ensuring efficient data handling and seamless user interface updates.
